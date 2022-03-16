@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Victor Muhita.
+- 👀 I’m interested in Art and coding.
+- 🌱 I’m currently learning Software Development at Moringa.
+- 
