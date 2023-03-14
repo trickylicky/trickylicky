@@ -5,7 +5,7 @@
 ###    About Me:
 
 <p align="center">
-  Hi, I'm Victor Muhita Wang'ombe, FullStack web developer based in Nairobi, Kenya.
+  Hi, I'm Victor Muhita, FullStack web developer based in Nairobi, Kenya.
   <br>
   <!-- <br>
   👨‍🎓 I'm currently 
