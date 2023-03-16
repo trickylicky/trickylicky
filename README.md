@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F70000&vCenter=true&width=450&lines=Hi!...This+is+Victor+Muhita;Nice+to+meet+you" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F70000&vCenter=true&width=450&lines=Hi!...This+is+Vic+Muhita;Nice+to+meet+you" alt="Typing SVG" /></a>
 </h1>
 
 ###    About Me:
